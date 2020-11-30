@@ -51,7 +51,7 @@ API and example:
 ls.getObject(key)
 ```
 ```js
-ls.setObject('111')
+ls.getObject('111')
 // {first_name: 'Kurt', last_name: 'Cobain'}
 ```
 
