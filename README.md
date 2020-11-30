@@ -1,4 +1,4 @@
-# Easy Using localStorage with JavaScript
+# Easy use localStorage with JavaScript
 
 You can use with React, Angular, Vue, etc. Playground [here](https://codesandbox.io/s/my-localstorage-drzxj).
 

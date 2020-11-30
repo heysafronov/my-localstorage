@@ -1,18 +1,18 @@
 {
   "name": "@heysafronov/my-localstorage",
   "version": "1.0.1",
-  "description": "Easy Using localStorage with JavaScript",
+  "description": "Easy use localStorage with JavaScript",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/heysafronov/my-localstorage.git"
+    "url": "https://github.com/heysafronov/my-localstorage.git"
   },
   "keywords": [
-    "localStorage",
     "localstorage",
+    "local storage",
     "React",
     "JavaScript",
     "Vue",
