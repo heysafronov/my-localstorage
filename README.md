@@ -36,6 +36,9 @@ ls.setItem('000', 'hello')
 ```js
 ls.getItem('000')
 // 'hello'
+
+ls.getItem('fake')
+// undefined
 ```
 
 ### Set object
@@ -48,6 +51,9 @@ ls.setObject('111', { first_name: 'Kurt', last_name: 'Cobain' })
 ```js
 ls.getObject('111')
 // { first_name: 'Kurt', last_name: 'Cobain' }
+
+ls.getObject('fake')
+// undefined
 ```
 
 ### Edit object (add a new key to an object)
