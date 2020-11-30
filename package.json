@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/heysafronov/my-localstorage.git"
+    "url": "git://github.com/heysafronov/my-localstorage.git"
   },
   "keywords": [
     "localstorage",
