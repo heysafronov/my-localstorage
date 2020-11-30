@@ -62,7 +62,7 @@ ls.editObject(key, value)
 ```
 ```js
 ls.editObject('111', { middle_name: 'Donald'})
-// {first_name: 'Kurt', last_name: 'Cobain', middle_name: 'Donald'}
+// ls.getObject('111') -> {first_name: 'Kurt', last_name: 'Cobain', middle_name: 'Donald'}
 ```
 
 ### Edit object (edit key value)
@@ -72,7 +72,7 @@ ls.editObject(key, value)
 ```
 ```js
 ls.editObject("111", { middle_name: "Mike"})
-// {first_name: 'Kurt', last_name: 'Cobain', middle_name: 'Mike'}
+// ls.getObject('111') -> {first_name: 'Kurt', last_name: 'Cobain', middle_name: 'Mike'}
 ```
 
 ### Remove item
