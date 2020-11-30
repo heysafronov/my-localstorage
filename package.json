@@ -1,5 +1,5 @@
 {
-  "name": "my-localstorage",
+  "name": "@heysafronov/my-localstorage",
   "version": "2.0.0",
   "description": "Easy use localStorage with JavaScript",
   "main": "index.js",
