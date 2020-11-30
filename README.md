@@ -18,9 +18,11 @@ import { ls } from 'my-localstorage'
 ```js
 ls.setItem(key, value)
 ls.getItem(key)
+
 ls.setObject(key, value)
 ls.getObject(key)
 ls.editObject(key, value)
+
 ls.removeItem(key)
 ls.clear()
 ```
