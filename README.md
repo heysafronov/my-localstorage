@@ -17,7 +17,6 @@ import { ls } from 'my-localstorage'
 ## [Guide](https://www.npmjs.com/package/my-localstorage)
 
 ### Set item
-API and example:
 ```js
 ls.setItem(key, value)
 ```
@@ -26,7 +25,6 @@ ls.setItem('000', 'hello')
 ```
 
 ### Get item
-API and example:
 ```js
 ls.getItem(key)
 ```
