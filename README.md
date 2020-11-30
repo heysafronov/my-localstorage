@@ -14,7 +14,7 @@ npm i my-localstorage
 import { ls } from 'my-localstorage'
 ```
 
-## Guide
+## [Guide](https://www.npmjs.com/package/my-localstorage)
 
 ### Set item
 API and example:
