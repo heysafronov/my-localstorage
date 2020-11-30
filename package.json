@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/heysafronov/my-localstorage/issues"
   },
-  "homepage": "https://github.com/heysafronov/my-localstorage#readme"
+  "homepage": "https://github.com/heysafronov/my-localstorage#readme",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  }
 }
