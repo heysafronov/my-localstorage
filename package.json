@@ -27,6 +27,6 @@
   },
   "homepage": "https://github.com/heysafronov/my-localstorage#readme",
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com"
+    "registry":"https://npm.pkg.github.com/"
   }
 }
