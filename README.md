@@ -38,7 +38,7 @@ ls.getItem('000')
 ls.setObject(key, value)
 ```
 ```js
-ls.setObject('111', {first_name: 'Kurt', last_name: 'Cobain'})
+ls.setObject('111', { first_name: 'Kurt', last_name: 'Cobain' })
 ```
 
 
@@ -48,7 +48,7 @@ ls.getObject(key)
 ```
 ```js
 ls.getObject('111')
-// {first_name: 'Kurt', last_name: 'Cobain'}
+// { first_name: 'Kurt', last_name: 'Cobain' }
 ```
 
 ### Edit object (add a new key to an object)
@@ -56,8 +56,8 @@ ls.getObject('111')
 ls.editObject(key, value)
 ```
 ```js
-ls.editObject('111', {middle_name: 'Donald'})
-// ls.getObject('111') -> {first_name: 'Kurt', last_name: 'Cobain', middle_name: 'Donald'}
+ls.editObject('111', { middle_name: 'Donald' })
+// ls.getObject('111') -> { first_name: 'Kurt', last_name: 'Cobain', middle_name: 'Donald' }
 ```
 
 ### Edit object (edit key value)
@@ -65,8 +65,8 @@ ls.editObject('111', {middle_name: 'Donald'})
 ls.editObject(key, value)
 ```
 ```js
-ls.editObject('111', {middle_name: 'Mike'})
-// ls.getObject('111') -> {first_name: 'Kurt', last_name: 'Cobain', middle_name: 'Mike'}
+ls.editObject('111', { middle_name: 'Mike' })
+// ls.getObject('111') -> { first_name: 'Kurt', last_name: 'Cobain', middle_name: 'Mike' }
 ```
 
 ### Remove item
