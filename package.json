@@ -26,7 +26,4 @@
     "url": "https://github.com/heysafronov/my-localstorage/issues"
   },
   "homepage": "https://github.com/heysafronov/my-localstorage#readme",
-  "publishConfig": {
-    "access": "public"
-  }
 }
