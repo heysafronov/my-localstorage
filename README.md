@@ -65,7 +65,7 @@ ls.editObject('111', {middle_name: 'Donald'})
 ls.editObject(key, value)
 ```
 ```js
-ls.editObject("111", {middle_name: "Mike"})
+ls.editObject('111', {middle_name: 'Mike'})
 // ls.getObject('111') -> {first_name: 'Kurt', last_name: 'Cobain', middle_name: 'Mike'}
 ```
 
