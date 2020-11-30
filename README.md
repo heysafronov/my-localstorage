@@ -34,7 +34,6 @@ ls.getItem('000')
 ```
 
 ### Set object
-API and example:
 ```js
 ls.setObject(key, value)
 ```
@@ -44,7 +43,6 @@ ls.setObject('111', {first_name: 'Kurt', last_name: 'Cobain'})
 
 
 ### Get object
-API and example:
 ```js
 ls.getObject(key)
 ```
@@ -54,7 +52,6 @@ ls.getObject('111')
 ```
 
 ### Edit object (add a new key to an object)
-API and example:
 ```js
 ls.editObject(key, value)
 ```
@@ -64,7 +61,6 @@ ls.editObject('111', {middle_name: 'Donald'})
 ```
 
 ### Edit object (edit key value)
-API and example:
 ```js
 ls.editObject(key, value)
 ```
@@ -74,7 +70,6 @@ ls.editObject("111", {middle_name: "Mike"})
 ```
 
 ### Remove item
-API and example:
 ```js
 ls.removeItem(key)
 ```
@@ -83,7 +78,6 @@ ls.removeItem('000')
 ```
 
 ### Clear all
-API and example:
 ```js
 ls.clear()
 ```
