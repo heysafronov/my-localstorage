@@ -89,6 +89,3 @@ API and example:
 ```js
 ls.clear()
 ```
-```js
-ls.clear()
-```
