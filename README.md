@@ -11,7 +11,7 @@ npm i my-localstorage
 
 ## Declare in JS
 ```js
-import { ls } from 'my-localstorage'
+import {ls} from 'my-localstorage'
 ```
 
 ## [Guide](https://www.npmjs.com/package/my-localstorage)
