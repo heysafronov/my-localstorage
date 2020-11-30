@@ -1,6 +1,6 @@
 {
   "name": "@heysafronov/my-localstorage",
-  "version": "2.5.0",
+  "version": "2.6.0",
   "description": "Easy use localStorage with JavaScript",
   "main": "index.js",
   "scripts": {
@@ -26,7 +26,7 @@
     "url": "https://github.com/heysafronov/my-localstorage/issues"
   },
   "homepage": "https://github.com/heysafronov/my-localstorage#readme",
-  "publish": {
-    "registry": "https://npm.pkg.github.com"
+  "publishConfig": {
+    "access": "public"
   }
 }
