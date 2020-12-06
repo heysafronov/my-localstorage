@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/heysafronov/my-localstorage/main/logo/my-localstorage.png">
+
 # Easy use localStorage with JavaScript
 
 You can use with React, Angular, Vue, etc. Playground [here](https://codesandbox.io/s/my-localstorage-drzxj).
